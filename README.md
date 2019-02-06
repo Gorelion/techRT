@@ -2,7 +2,7 @@
 
 Este repositorio contiene las implementaciones del algoritmo de Dijkstra y algoritmo de Dial en Python 3.6.
 
-La implementación del algoritmo de Dijkstra considera el uso de un min-heap, mientras que Dial considera una estructura de datos que simula una lista circular. Ambos algoritmos se implementaron según lo presentado por (Ahuja et al., 1988).
+La implementación del algoritmo de Dijkstra considera el uso de un min-heap, mientras que Dial considera una estructura de datos que simula una lista circular. Ambos algoritmos se implementaron según lo presentado por Ahuja et al. (1988).
 
 Cada algoritmo está implementado en su propio script, y se aplica a cada grafo del directorio "instancias", usando como nodo inicial aquel ingresado por consola.
 
